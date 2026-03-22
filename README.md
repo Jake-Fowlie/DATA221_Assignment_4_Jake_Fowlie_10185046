@@ -1,5 +1,5 @@
 # DATA 221 Assignment 4
-**Jake Fowlie - 10185046**
+**Jake Fowlie** 10185046
 **Due Date:** March 23, 2026
 
 ## Table of Contents
