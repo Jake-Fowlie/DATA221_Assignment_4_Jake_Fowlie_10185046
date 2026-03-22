@@ -1,8 +1,6 @@
 # DATA 221 Assignment 4
-
-**Student:** [Your Name]  
-**ID:** [Your ID]  
-**Date:** March 22, 2026
+**Jake Fowlie - 10185046**
+**Due Date:** March 23, 2026
 
 ## Table of Contents
 - [Q1: Dataset Exploration](#q1)
